@@ -5,6 +5,7 @@
 - [x] [Kotlin](https://kotlinlang.org)
 - [x] Clean Architecture
 - [x] Use Cases
+- [x] MVVM
 - [x] [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel?authuser=1)
 - [x] [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF4A7I7vCCM-WyihxGfkKkcZXWycULgl7qUF826jH6a7xd6rZazKUjIaAl_qEALw_wcB&gclsrc=aw.ds)
 - [x] [Room](https://developer.android.com/jetpack/androidx/releases/room?gclid=CjwKCAiAsNKQBhAPEiwAB-I5zRcrumgNq1Wbg1BQu_gV_58gdtrF3miLd3w5uZTebjXVkxJ9yIZuJRoC_9oQAvD_BwE&gclsrc=aw.ds&authuser=1)
